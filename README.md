@@ -1,51 +1,50 @@
-# Research-Hypothesis-Generation-Framework-Using-Graph-RAG-and-Few-Shot-Prompting
+# Graph Retrieval-Augmented Generation および Few-shot プロンプティングを用いた研究仮説生成フレームワーク
 
-## Overview
-This framework leverages Large Language Models (LLMs) to generate research hypotheses in the field of chemistry. It utilizes data from the MOOSE-Chem framework (https://arxiv.org/abs/2410.07076).
+## 概要
+本フレームワークは、大規模言語モデル（LLM）を活用して化学分野の研究仮説を生成するフレームワークです。データとして、MOOSE-Chemフレームワーク（https://arxiv.org/abs/2410.07076）で使用されたデータを利用します。
 
-Before running this framework, please place the following files in the `data` folder:
+本フレームワークを実行する前に、`data` フォルダ内に以下のファイルを配置してください。
 - `chem_research_2024.xlsx`
 - `Inspiration_Corpus_3000.json`
 
-Additionally, the following external tools are required:
-- **Neo4j** (https://neo4j.com/): For managing the graph database
-- **OpenAI API** (https://openai.com/index/openai-api/): For utilizing the language model
+また、以下の外部ツールが必要です。
+- **Neo4j**（https://neo4j.com/）: グラフデータベースの管理
+- **OpenAI API**（https://openai.com/index/openai-api/）: 言語モデルの利用
 
-Before executing the program, ensure that `URI` and `OPENAI_API_KEY` are properly set within the code.
+プログラム実行前に、プログラム内の `URI` および `OPENAI_API_KEY` を適切な形式で設定してください。
 
-## Execution Steps
-Below are the execution steps and roles of each script in this framework:
+## 実行手順
+本フレームワークの実行手順と各スクリプトの役割を以下に示します。
 
 1. **`data_to_graph.py`**
-   - Converts the MOOSE-Chem framework data into a graph format on Neo4j.
-   - Saves the generated graph as `export.graphml` in the `data` folder.
+   - MOOSE-ChemフレームワークのデータをNeo4j上のグラフに変換します。
+   - 作成したグラフを `export.graphml` という名前で `data` フォルダ内に保存してください。
 
 2. **`kg_build.py`**
-   - Extracts nodes and triples from `export.graphml`.
+   - `export.graphml` からノードとトリプルを抽出します。
 
 3. **`neo4j_triples.py`**
-   - Adds embeddings to the extracted graph data.
+   - 抽出したグラフデータに埋め込み（embedding）を付与します。
 
 4. **`xlsx_json.py`**
-   - Extracts research topics and ground-truth research hypotheses from `chem_research_2024.xlsx`.
+   - `chem_research_2024.xlsx` から研究課題と研究仮説の正解データを抽出します。
 
 5. **`del_mentions.py`**
-   - Removes unnecessary relations and cleans the data.
+   - 不要なリレーションを削除し、データを整理します。
 
 6. **`hypo_gen.py`**
-   - Generates research hypotheses using Graph RAG (Graph Retrieval-Augmented Generation) and Few-Shot Prompting.
+   - Graph RAG（Graph Retrieval-Augmented Generation）とFew-shotプロンプティングを用いて研究仮説を生成します。
 
 7. **`evaluate.py`**
-   - Evaluates the generated research hypotheses.
+   - 生成した研究仮説の評価を行います。
 
 8. **`analyze_evl.py`**
-   - Analyzes the evaluation results.
+   - 評価結果を解析します。
 
 9. **`plot.py`**
-   - Visualizes the analyzed data.
+   - 解析後のデータを可視化します。
 
 ## License
-This project is licensed under the MIT License. See the LICENSE.txt file for details.
+This project is licensed under the MIT License, see the LICENSE.txt file for details
 
 Copyright (c) 2025 Yusuke Saito
-

@@ -1,0 +1,232 @@
+[
+    {
+        "question": "How can the combination of MXene and graphene nanoplatelets, using a water-induced alignment process, enhance the mechanical strength and electrochemical properties of flexible sheets for energy storage applications?",
+        "score": 3,
+        "cosine": 0.8758113980293274
+    },
+    {
+        "question": "How can the mechanical properties of MXene nanosheets be significantly enhanced for practical macroscopic film applications by overcoming challenges like voids, weak interfacial interactions, and low orientation degree?",
+        "score": 2,
+        "cosine": 0.7637885212898254
+    },
+    {
+        "question": "How can a scalable and efficient electrocatalytic method be developed for the reductive deuteration of aromatic hydrocarbons and heteroarenes to produce highly deuterated, saturated cyclic compounds using mild, operationally simple, and cost-effective conditions?",
+        "score": 3,
+        "cosine": 0.7853809595108032
+    },
+    {
+        "question": "How can the understanding of atomic site-specific reactivity on platinum (Pt) surfaces, particularly in relation to surface stress and its release, lead to improved design and efficiency of catalytic processes, such as the oxygen reduction reaction (ORR)?",
+        "score": 4,
+        "cosine": 0.8775961995124817
+    },
+    {
+        "question": "How can the ultrafast structural dynamics of highly reactive molecular ions be captured in real-time, particularly in the gas phase, where they are challenging to observe due to their transient nature and rapid transformations?",
+        "score": 4,
+        "cosine": 0.6884462833404541
+    },
+    {
+        "question": "How can we develop a 3D-printable elastomer that achieves both high tensile strength and toughness, addressing the mechanical limitations typically associated with photo-curing-based 3D printing techniques?",
+        "score": 3,
+        "cosine": 0.8246687650680542
+    },
+    {
+        "question": "How can we achieve reproducible and accurate quantification of single molecules at very low concentrations in complex mixtures using surface-enhanced Raman spectroscopy (SERS)?",
+        "score": 2,
+        "cosine": 0.5513315796852112
+    },
+    {
+        "question": "How can the integration of specific atomic arrangements, particularly chemical short-range disorder (CSRD), improve the structural stability and electrochemical performance of lithium oxide cathodes in lithium-ion batteries?",
+        "score": 4,
+        "cosine": 0.8993720412254333
+    },
+    {
+        "question": "How can stable, extra-large pore zeolites with unique structural features be synthesized to handle bulkier molecules in catalytic applications?",
+        "score": 2,
+        "cosine": 0.7913997173309326
+    },
+    {
+        "question": "How can non-metal organic frameworks be designed and synthesized to form predictable, isoreticular, thermodynamically stable, and permanently porous structures that are suitable for applications such as gas adsorption and iodine capture?",
+        "score": 4,
+        "cosine": 0.8378868699073792
+    },
+    {
+        "question": "How can CO2 be efficiently converted into valuable chemicals, such as formic acid, using an electrolysis process that avoids carbonate precipitation and ensures long-term operational stability?",
+        "score": 2,
+        "cosine": 0.7722043991088867
+    },
+    {
+        "question": "How can a rechargeable calcium–oxygen (Ca–O2) battery be developed to operate at room temperature with high stability and cycle life? ",
+        "score": 4,
+        "cosine": 0.9125989079475403
+    },
+    {
+        "question": "How can a peptide-based glass material be engineered to simultaneously exhibit strong mechanical properties, optical transparency, self-healing capabilities, and adhesive strength at room temperature?",
+        "score": 4,
+        "cosine": 0.912226140499115
+    },
+    {
+        "question": "How to design an electrolyte for lithium-ion batteries (LIBs) that achieves high energy density, fast charging, and operates across a wide temperature range, especially at ultralow temperatures, while maintaining high ionic conductivity and forming a stable inorganic-rich solid electrolyte interphase (SEI).",
+        "score": 3,
+        "cosine": 0.8175157904624939
+    },
+    {
+        "question": "How to design a photopolymer resin for additive manufacturing that can be repeatedly recycled and reused in a closed-loop system. The goal is to overcome limitations in current resin technologies that prevent full recyclability, which is essential for sustainability in 3D printing.",
+        "score": 4,
+        "cosine": 0.9430303573608398
+    },
+    {
+        "question": "How can long-term continuous ammonia synthesis be achieved through lithium-mediated nitrogen reduction, while overcoming the limitations posed by commonly used solvents like tetrahydrofuran (THF) in continuous-flow reactors?",
+        "score": 4,
+        "cosine": 0.8137798309326172
+    },
+    {
+        "question": "How can we use electrochemical energy to enable efficient two-electron oxygen atom transfers, mimicking dioxygenase reactivity, without the net consumption of electrons?",
+        "score": 5,
+        "cosine": 0.9509244561195374
+    },
+    {
+        "question": "How can we enhance the dynamic strength and energy absorption capacity of carbon nanotube fibers (CNTFs) to make them suitable for high-strain rate environments, such as ballistic impact or space debris protection?",
+        "score": 3,
+        "cosine": 0.7306229472160339
+    },
+    {
+        "question": "How can we automate the optimization, intensification, and scale-up of photocatalytic reactions to enhance efficiency, reproducibility, and scalability, while reducing the need for human expertise and intervention?",
+        "score": 4,
+        "cosine": 0.7472199201583862
+    },
+    {
+        "question": "How can a fully bio-based epoxy-amine thermoset be synthesized to achieve both high-performance thermomechanical properties and closed-loop recyclability through mild methanolysis, without requiring any catalysts?",
+        "score": 5,
+        "cosine": 0.9562164545059204
+    },
+    {
+        "question": "How can scalable, biomass-derivable thermosets be developed to improve the recyclability, mechanical performance, and manufacturability of wind turbine blades, which currently rely on non-recyclable epoxy-amine resins?",
+        "score": 4,
+        "cosine": 0.8859640955924988
+    },
+    {
+        "question": "How can molecular templating be utilized to precisely control the growth of layered halide perovskite nanowires in a solution phase to improve their optical properties, including low-loss waveguiding and lasing?",
+        "score": 4,
+        "cosine": 0.960393488407135
+    },
+    {
+        "question": "How can perovskite solar cells (PSCs) be protected from ultraviolet (UV)-induced degradation, particularly to improve their outdoor durability while maintaining high efficiency?",
+        "score": 4,
+        "cosine": 0.7307437658309937
+    },
+    {
+        "question": "How can we develop a biodegradable, biocompatible, and flexible piezoelectric material with high performance for transient implantable biomedical devices?",
+        "score": 3,
+        "cosine": 0.6771388053894043
+    },
+    {
+        "question": "How can we develop a scalable, sustainable material that provides efficient daytime radiative cooling by maximizing solar reflectance and minimizing unwanted solar absorption without relying on complex, non-eco-friendly production methods?",
+        "score": 3,
+        "cosine": 0.8091379404067993
+    },
+    {
+        "question": "How can a palladium-catalyzed cross-coupling reaction between alcohols and olefins be achieved with high selectivity and efficiency while addressing the challenges in C(sp3)–O bond formation and overcoming issues like elimination, substitution, and racemization?",
+        "score": 3,
+        "cosine": 0.6116551756858826
+    },
+    {
+        "question": "How can we achieve stereodivergent synthesis of non-natural α-quaternary amino acids with precise control over both the Z/E configuration of C=C bonds and enantioselectivity, using a palladium/copper–cocatalyzed system?",
+        "score": 4,
+        "cosine": 0.9224256277084351
+    },
+    {
+        "question": "How can one achieve enantioselective S-arylation of sulfenamides to produce chiral sulfilimines with sulfur stereocenters, given the difficulty of controlling stereochemistry in such transformations?",
+        "score": 4,
+        "cosine": 0.923647403717041
+    },
+    {
+        "question": "How can weakly coordinating native functional groups (such as alcohols and ethers) be directly used as directing groups in nickel-catalyzed cross-coupling reactions of non-activated alkenes to introduce sp2 and sp3 fragments with high chemo- and regioselectivity?",
+        "score": 3,
+        "cosine": 0.8032729029655457
+    },
+    {
+        "question": "How can an efficient and enantioselective method for the direct C−H functionalization of arenes with various nucleophiles be developed, especially using a novel strategy that can work under mild conditions and enable the creation of chiral products for applications in organic chemistry?",
+        "score": 4,
+        "cosine": 0.8849375247955322
+    },
+    {
+        "question": "How can carbon monoxide (CO) be utilized to both trigger carbonylation and facilitate (hetero)aryl migration reactions in the synthesis of complex organic molecules, while overcoming the traditional limitations of radical-based rearrangement reactions? ",
+        "score": 5,
+        "cosine": 0.8847585320472717
+    },
+    {
+        "question": "How can redox potential incompatibility in electrocatalytic cyclic deracemization be overcome to achieve stereochemical editing of secondary alcohols without stoichiometric redox reagents?",
+        "score": 5,
+        "cosine": 0.8892887830734253
+    },
+    {
+        "question": "How can a heavier nitrile (phosphino-silylene) be synthesized, stabilized, and isomerized into a heavier isonitrile, and how does its bonding and reactivity differ from classical nitriles? ",
+        "score": 4,
+        "cosine": 0.8705546855926514
+    },
+    {
+        "question": "How can one achieve site-selective alkene difunctionalization and remote C(sp3)–H desaturation in a single synthetic step, overcoming the challenges of high bond dissociation energy and selectivity in remote activation? ",
+        "score": 5,
+        "cosine": 0.9332414865493774
+    },
+    {
+        "question": "How can triplet metallocarbenes, which are typically unstable beyond cryogenic conditions, be synthesized, stabilized, and characterized for their potential applications in chemical reactivity, especially C–H insertion and carbonylation?",
+        "score": 2,
+        "cosine": 0.7757537961006165
+    },
+    {
+        "question": "How can selective diastereodivergent hetero-dihalogenation (chlorofluorination) of unactivated alkenes be achieved with precise control over chemo-, regio-, and diastereoselectivity, using a nucleophile–nucleophile (Nu–Nu) strategy? ",
+        "score": 4,
+        "cosine": 0.942389965057373
+    },
+    {
+        "question": "How can the reactivity and selectivity of Modular Diazotransfer (MoDAT) reactions, specifically with primary amines, be accurately predicted and improved using computational methods? ",
+        "score": 3,
+        "cosine": 0.6970260143280029
+    },
+    {
+        "question": "How can we develop a method for stereospecific C–O bond formation in organic sulfation that broadens the substrate scope and allows for precise stereocontrol in the products?",
+        "score": 4,
+        "cosine": 0.8573249578475952
+    },
+    {
+        "question": "How can Suzuki–Miyaura cross-coupling (SMC) reactions be adapted to operate under acidic conditions, enabling the use of traditionally unstable substrates, such as heteroarylboronic acids, and avoiding catalyst poisoning by Lewis-basic functional groups?",
+        "score": 4,
+        "cosine": 0.625877857208252
+    },
+    {
+        "question": "How can one achieve enantioselective β,γ-dehydrogenation of cycloalkyl amides to produce chiral carbocycles with high enantioselectivity and site selectivity?",
+        "score": 4,
+        "cosine": 0.8916633129119873
+    },
+    {
+        "question": "How can we develop a nickel-catalyzed, regio- and stereoselective method to synthesize sequence-encoded cyclooctene monomers, which can then undergo ring-opening metathesis polymerization (ROMP) to create sequence-controlled polymers with unique and tunable properties?",
+        "score": 4,
+        "cosine": 0.847084641456604
+    },
+    {
+        "question": "How can we achieve a Rh(I)-catalyzed enantioselective [2+2+1] cycloaddition reaction involving three different 2π-components (cycloalkenes, acetylenecarboxylates, and terminal alkynes) to selectively synthesize chiral 3-methylenecyclopent-1-ene derivatives?",
+        "score": 4,
+        "cosine": 0.9584513902664185
+    },
+    {
+        "question": "How can photoredox catalysis be used to exploit the latent reactivity of phosphorus ylides, allowing them to participate in a formal three-component cycloaddition that converts inert C–H and C=P bonds into C–C and C=C bonds, creating versatile synthetic building blocks in an efficient, controlled manner? ",
+        "score": 4,
+        "cosine": 0.9117798805236816
+    },
+    {
+        "question": "How can we efficiently and enantioselectively form alkyl–alkyl bonds between two sp³-hybridized carbon atoms to construct saturated tertiary stereogenic centers from two distinct alkenes, using Ni-catalyzed cross-coupling reactions?",
+        "score": 3,
+        "cosine": 0.8986402153968811
+    },
+    {
+        "question": "How can we develop a stereoselective and versatile method to synthesize diverse C-glycosides, especially those with quaternary stereocentres, from readily available 1-deoxyglycosides under mild conditions? ",
+        "score": 3,
+        "cosine": 0.8532066345214844
+    },
+    {
+        "question": "How can we efficiently and directly synthesize 1,2-arylheteroaryl ethanes from simple chemical feedstocks such as ethylene, arenes, and heteroarenes, while avoiding the limitations of pre-functionalized synthons, multi-step processes, and harsh conditions?",
+        "score": 2,
+        "cosine": 0.7446739077568054
+    }
+]
